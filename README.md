@@ -1,2 +1,2 @@
-
-Бизнес Комплекс "Ясенево"
+# Synergy-Examples
+Пример работы студента Synergy Academy
